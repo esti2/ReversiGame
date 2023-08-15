@@ -1,0 +1,34 @@
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.exe
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.deps.json
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.runtimeconfig.json
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.dll
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.pdb
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.csproj.AssemblyReference.cache
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.MainForm.resources
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.csproj.GenerateResource.cache
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.AssemblyInfoInputs.cache
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.AssemblyInfo.cs
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.csproj.CoreCompileInputs.cache
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.dll
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\refint\Reversi.dll
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.pdb
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.genruntimeconfig.cache
+F:\Data\Academy\courses\A_222VP\07 Reversi\Reversi\obj\Debug\net6.0-windows\ref\Reversi.dll
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.exe
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.deps.json
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.runtimeconfig.json
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.dll
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\bin\Debug\net6.0-windows\Reversi.pdb
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.MainForm.resources
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.AssemblyInfo.cs
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.dll
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\refint\Reversi.dll
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.pdb
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\Reversi.genruntimeconfig.cache
+C:\Users\User\Desktop\תכנות ויזואלי מלא\Reversi\Reversi\obj\Debug\net6.0-windows\ref\Reversi.dll
